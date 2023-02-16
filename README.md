@@ -1,4 +1,4 @@
-- 👋 Hi, I’m supun
+- 👋 Hi, I’m supun kalana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language and java
 <!---
